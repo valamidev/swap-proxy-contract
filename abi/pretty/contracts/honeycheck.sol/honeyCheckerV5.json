@@ -1,0 +1,5 @@
+[
+  "constructor()",
+  "function honeyCheck(address targetTokenAddress, address idexRouterAddres) payable returns (tuple(uint256 buyResult, uint256 tokenBalance2, uint256 sellResult, uint256 buyCost, uint256 sellCost, uint256 expectedAmount) response)",
+  "function router() view returns (address)"
+]

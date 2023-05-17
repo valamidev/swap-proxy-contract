@@ -1,0 +1,12 @@
+[
+  "constructor(address _router)",
+  "function approve(address token)",
+  "function owner() view returns (address)",
+  "function router() view returns (address)",
+  "function safuBuy(uint256 amountIn, uint256 amountOutMin, address[] path)",
+  "function safuSell(uint256 amountIn, uint256 amountOutMin, address[] path)",
+  "function setRouter(address _router)",
+  "function transferOwnership(address newOwner)",
+  "function withdraw(address token, uint256 amount)",
+  "function withdrawAll(address token)"
+]
